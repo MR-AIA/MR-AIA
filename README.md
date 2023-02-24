@@ -12,10 +12,6 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
-<p align="center"><a href="https://github.com/MR-AIA">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-
 <h3><b><i>👥 About :</i></b></h3>
 <li> 🇧🇩 <i>We Are Bangladeshi Hackers</i></li>
 <li> 😍 <i>We Are Muslim</i></li>
@@ -27,8 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&locale=en" alt="MR-AIA" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-AIA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-AIA" /> </p>
 
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
