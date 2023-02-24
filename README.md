@@ -20,8 +20,7 @@
 <li> 🇧🇩 <i>We Are Bangladeshi Hackers</i></li>
 <li> 😍 <i>We Are Muslim</i></li>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MR-AIA"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-AIA&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<h3><b><i>🏆 Github Statistics :<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-AIA&show_icons=true&locale=en&layout=compact" alt="MR-AIA" /></p>
 
@@ -30,8 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-AIA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-AIA" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
 
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
