@@ -36,13 +36,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/noobboss1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noobboss1" /></a><a href="https://ko-fi.com/noobboss1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="noobboss1" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/MR-AIA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MR-AIA" /></a><a href="https://ko-fi.com/noobboss1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="noobboss1" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobboss1&show_icons=true&locale=en&layout=compact" alt="noobboss1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-AIA&show_icons=true&locale=en&layout=compact" alt="MR-AIA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobboss1&show_icons=true&locale=en" alt="noobboss1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&locale=en" alt="MR-AIA" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobboss1&" alt="noobboss1" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/noobboss1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="noobboss1" /></a><a href="https://ko-fi.com/noobboss1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="noobboss1" /></a></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
