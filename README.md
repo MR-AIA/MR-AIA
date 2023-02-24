@@ -27,9 +27,6 @@
 <li> 🇧🇩 <i>We Are Bangladeshi Hackers</i></li>
 <li> 😍 <i>We Are Muslim</i></li>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MR-AIA"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-AIA&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
 
