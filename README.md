@@ -17,8 +17,6 @@
 <p align="center"><a href="https://github.com/MR-AIA">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/MR-AIA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-AIA&layout=compact&theme=react&hide_border=true" />
-</a></p>
 
 <h3><b><i>👥 About :</i></b></h3>
 <li> 👩‍💻 <i>We Are Two Friend Using This Github</i></li>
@@ -46,26 +44,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
 
-- 🔭 I’m currently working on **N00B B0SS WORLD**
-
-- 🌱 I’m currently learning **N00B B0SS WORLD**
-
-- 👯 I’m looking to collaborate on **N00B B0SS**
-
-- 🤝 I’m looking for help with **N00B B0SS**
-
-- 👨‍💻 All of my projects are available at [github.com/noobboss1](github.com/noobboss1)
-
-- 💬 Ask me about **N00B B0SS**
-
 -<h1 align="center">Hi 👋, I'm N00B B0SS</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noobboss1&label=Profile%20views&color=0e75b6&style=flat" alt="noobboss1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobboss1" alt="noobboss1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/noobboss143" target="blank"><img src="https://img.shields.io/twitter/follow/noobboss143?logo=twitter&style=for-the-badge" alt="noobboss143" /></a> </p>
 
 - 🔭 I’m currently working on **N00B B0SS WORLD**
 
