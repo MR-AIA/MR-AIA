@@ -29,6 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-AIA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-AIA" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
+
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
 
@@ -36,10 +40,3 @@
 <h3><b><i>👩‍💻 Contact আমিরুল ইসলাম আরজু :</i></b></h3>
 <a href="https://www.facebook.com/TermuxHunterBD/"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://i.ibb.co/2FrDPV0/facebook.png"/></a>
 <a href="https://www.facebook.com/TermuxHunterBD/"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://i.ibb.co/Cn8FHym/messenger.png" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-AIA&label=Profile%20views&color=0e75b6&style=flat" alt="MR-AIA" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MR-AIA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MR-AIA" /></a><a href="https://ko-fi.com/MR-AIA"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MR-AIA" /></a></p><br><br>
