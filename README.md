@@ -2,8 +2,6 @@
 
 ### Hi Everyone This Is MR-AIA 👋
 
-
-
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -26,6 +24,9 @@
 <li> 👩‍💻 <i>We Are Two Friend Using This Github</i></li>
 <li> 🇧🇩 <i>We Are Bangladeshi Hackers</i></li>
 <li> 😍 <i>We Are Muslim</i></li>
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/MR-AIA"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-AIA&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
