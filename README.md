@@ -23,6 +23,12 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MR-AIA&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-AIA&show_icons=true&locale=en&layout=compact" alt="MR-AIA" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&locale=en" alt="MR-AIA" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
+
 <h3><b><i>🏆 Profile View :</i></b></h3>
 <a href="https://github.com/MR-AIA"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MR-AIA&color=blueviolet&style=flat-square"></a>
 
@@ -36,10 +42,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MR-AIA" alt="MR-AIA" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/MR-AIA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MR-AIA" /></a><a href="https://ko-fi.com/noobboss1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="noobboss1" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MR-AIA&show_icons=true&locale=en&layout=compact" alt="MR-AIA" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-AIA&show_icons=true&locale=en" alt="MR-AIA" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-AIA&" alt="MR-AIA" /></p>
+<p><a href="https://www.buymeacoffee.com/MR-AIA"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MR-AIA" /></a><a href="https://ko-fi.com/MR-AIA"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MR-AIA" /></a></p><br><br>
